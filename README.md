@@ -1,10 +1,11 @@
 <h1># Hello folks! I'm Keandra Rifqi Nugraha 👋</h1>
-### Junior Network Support & Infrastructure 🌐
+I'm a junior network support & network design infrastructure 🌐
+
+
 
 I am a high school student specializing in Network Engineering with a focus on remote troubleshooting and configuration. I am passionate about making networks more efficient and secure.
 
----
-
+<br>
 ### 🛠️ Skills & Knowledge
 * **Networking:** IPv4 Subnetting, VLAN Configuration, Routing Protocols (OSPF, Static).
 * **Software:** Cisco Packet Tracer, GNS3, EVE-NG, putty.
