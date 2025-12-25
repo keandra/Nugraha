@@ -3,17 +3,18 @@ I'm a junior network support & network design infrastructure 🌐
 
 
 
-I am a high school student specializing in Network Engineering with a focus on remote troubleshooting and configuration. I am passionate about making networks more efficient and secure.
+I am a high school student specializing in Network Engineering with a focus on remote troubleshooting and configuration. \
+I am passionate about making networks more efficient and secure.
 
 <br>
-### 🛠️ Skills & Knowledge
-* **Networking:** IPv4 Subnetting, VLAN Configuration, Routing Protocols (OSPF, Static).
-* **Software:** Cisco Packet Tracer, GNS3, EVE-NG, putty.
-* **Operating Systems:** Windows, Linux (CLI), Cisco IOS, Mikrotik RouterOS.
+<h2>🛠️ Skills & Knowledge </h2>\
+* **Networking:** IPv4 Subnetting, VLAN Configuration, Routing Protocols (OSPF, Static). \
+* **Software:** Cisco Packet Tracer, GNS3, EVE-NG, putty. \
+* **Operating Systems:** Windows, Linux (CLI), Cisco IOS, Mikrotik RouterOS. \
 
-### 📁 Featured Project: The "Safe-Office" Lab
-I designed a network for a 50-person office that includes:
-* **Guest Isolation:** Using VLANs to keep guest traffic away from sensitive data.
+### 📁 Featured Project: The "Safe-Office" Lab \
+<h2>I designed a network for a 50-person office that includes: </h2>\
+* **Guest Isolation:** Using VLANs to keep guest traffic away from sensitive data. \
 * **DHCP/DNS:** Fully automated IP addressing.
 [Link to your Repository]
 
